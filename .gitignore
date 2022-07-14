@@ -1,4 +1,6 @@
 /.vs
 /node_modules
-/build
-/Server
+/.build
+/.Server
+/package-lock.json
+/package.json
